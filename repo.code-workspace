@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../agentic-ai"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../NLP"
+		}
+	],
+	"settings": {}
+}

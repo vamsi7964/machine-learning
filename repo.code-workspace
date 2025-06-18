@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../NLP"
+		},
+		{
+			"path": "../generative-ai"
 		}
 	],
 	"settings": {}

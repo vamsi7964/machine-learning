@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "../generative-ai"
+		},
+		{
+			"path": "../computer-vision"
 		}
 	],
 	"settings": {}
